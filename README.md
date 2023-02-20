@@ -1,6 +1,9 @@
 
 # Image Captioning using Deep Learning (Pytorch)
 
+![image](https://user-images.githubusercontent.com/94059815/220030537-a4e811dc-8263-4808-b878-f64829928722.png)
+
+
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
 
 Here we have used Convolutional Neural Network for extracting the low level features from images for classifying or comprehending an image.
