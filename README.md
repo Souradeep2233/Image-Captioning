@@ -39,6 +39,7 @@ Applications:
 2. Jupiter Notebook (/Support)
 
 3. Deep Learning Frame Works required : Pytorch(1.13.1)
+
 For it's installation refer to the official website : https://pytorch.org/get-started/locally/ 
 
 And other components like :
