@@ -18,6 +18,11 @@ Real life example :
 
 ![images2](https://user-images.githubusercontent.com/94059815/220010299-f38f5824-f633-4cb5-9a74-ba8732735f22.jpg)
 
+Frame work used:
+
+![image](https://user-images.githubusercontent.com/94059815/220010401-6161c58d-88fb-42f1-9831-fe680b9f3a81.png)
+
+
 Applications:
 1.  Assistance for Visually Impaired
 2. Biomedical Image Captioning
