@@ -59,7 +59,7 @@ And other components like :
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Souradeep2233/Image-Captioning.git)
 ```
 
 2. Install the dataset from this link:
