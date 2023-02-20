@@ -12,11 +12,11 @@ The feature vector from images and word embeddings are fed to LSTM architecture,
 
 Architecture design :
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Image Captioning](https://user-images.githubusercontent.com/94059815/220010257-2015a5a7-6798-4ac2-9ee6-cbd5905e9b63.png)
 
 Real life example :
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![images2](https://user-images.githubusercontent.com/94059815/220010299-f38f5824-f633-4cb5-9a74-ba8732735f22.jpg)
 
 Applications:
 1.  Assistance for Visually Impaired
